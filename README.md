@@ -45,7 +45,7 @@ The dataset contains applicant information, including:
 
 ## 📊 Dashboard Preview
 
-> Add the dashboard screenshot here.
+![Dashboard](Bank Dashboard.png)
 
 ---
 
